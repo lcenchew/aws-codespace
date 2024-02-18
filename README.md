@@ -1,2 +1,3 @@
-# starting-template
-Template to get a new devcontainer repo started
+# AWS Codespace
+
+Setup Codespace for working on AWS.
